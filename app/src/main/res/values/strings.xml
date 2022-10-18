@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intents Comunes</string>
+    <string name="alarma">Alarma</string>
+    <string name="contador">Contador</string>
+    <string name="fotografia">Fotografía</string>
+    <string name="email">E-mail</string>
+    <string name="mapa">Mapa</string>
+    <string name="telefono">Teléfono</string>
+    <string name="intents_comunes">Intents comúnes</string>
+</resources>
