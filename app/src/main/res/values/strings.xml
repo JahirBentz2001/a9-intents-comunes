@@ -7,4 +7,24 @@
     <string name="mapa">Mapa</string>
     <string name="telefono">Teléfono</string>
     <string name="intents_comunes">Intents comúnes</string>
+    <string name="alarm_name">Nombre de la alarma</string>
+    <string name="hours">Horas</string>
+    <string name="minutes">Minutos</string>
+    <string name="set_alarm">Crear Alarma</string>
+    <string name="set_counter">Establecer Contador</string>
+    <string name="seconds">Segundos</string>
+    <string name="counter_title">Nombre del contador</string>
+    <string name="take_photo">Tomar Foto</string>
+    <string name="send_email">Enviar Email</string>
+    <string name="asunto">Asunto</string>
+    <string name="dest">Destinatario</string>
+    <string name="address">Dirección</string>
+    <string name="search_address">Buscar Dirección</string>
+    <string name="lucky">The Lucky Pizza</string>
+    <string name="pepperrones">Peperrones Pizza</string>
+    <string name="angelo">Angelo Pizza</string>
+    <string name="benedettis">Benedetti\'s Pizza</string>
+    <string name="hut">Pizza Hut</string>
+    <string name="dominos">Domino\'s Pizza</string>
+    <string name="call">Llamar</string>
 </resources>
